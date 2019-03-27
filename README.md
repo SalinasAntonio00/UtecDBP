@@ -1,7 +1,5 @@
 # UtecDBP
-Nuevo README.md
+Nuevo Branch 2.0
 
-Mi nombre es Antonio Salinas
-
-Otra oracion
+No es necesaria mayor informacion
 
